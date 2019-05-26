@@ -1,14 +1,4 @@
 package main.se450.main;
-/*
- * Name     : Eric Newnam
- * Depaul#  : 1804176
- * Class    : SE 450
- * Project  : Final
- * Due Date : xx/xx/2017
- *
- * class FinalProject
- *
- */
 
 import java.awt.Color;
 import java.awt.Container;

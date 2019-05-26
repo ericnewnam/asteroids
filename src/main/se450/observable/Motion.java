@@ -1,16 +1,5 @@
 package main.se450.observable;
 
-/*
- * Name     : Eric Newnam
- * Depaul#  : 1804176
- * Class    : SE 450
- * Project  : Final
- * Due Date : xx/xx/2017
- *
- * class Motion
- *
- */
-
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
