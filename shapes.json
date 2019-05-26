@@ -1,0 +1,10 @@
+{"shapes":[
+  {"type": "Triangle",   "left":  50,  "top":  50, "right":  70, "bottom":  70, "x":  -1, "y": 1.5, "rotation":    1, "color":    -65536, "borders": "PassThru" },
+  {"type": "Triangle",   "left":  25,  "top":  25, "right":  50, "bottom":  50, "x":-1.5, "y":   2, "rotation":  0.5, "color":  16711935, "borders": "PassThru" },
+  {"type": "Triangle",   "left": 300,  "top": 335, "right": 335, "bottom": 370, "x": 0.1, "y": 0.1, "rotation":    1, "color":      -256, "borders": "PassThru" },
+  {"type": "Triangle",   "left": 600,  "top": 400, "right": 620, "bottom": 420, "x":   1, "y":-1.5, "rotation": -0.5, "color":        -1, "borders": "PassThru" },
+  {"type": "Triangle",   "left": 200,  "top": 200, "right": 225, "bottom": 225, "x":   1, "y":-1.5, "rotation":    1, "color": -16711936, "borders": "Rebound"  },
+  {"type": "Triangle",   "left":  35,  "top":  45, "right":  50, "bottom":  60, "x":   1, "y":  -1, "rotation": -0.5, "color":   8388736, "borders": "Rebound"  },
+  {"type": "Triangle",   "left": 150,  "top": 200, "right": 200, "bottom": 250, "x":   0, "y": 1.5, "rotation":    4, "color":       255, "borders": "Rebound"  },
+  {"type": "Triangle",   "left":  50,  "top":  50, "right":  90, "bottom":  90, "x":-1.5, "y":   0, "rotation":  0.5, "color":  16773632, "borders": "Rebound"  }
+]}
